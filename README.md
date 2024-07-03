@@ -1,18 +1,14 @@
 # ProtonVPN-Setup-and-Usage
 ![image](https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/2761652e-1a4d-479a-851a-af0b9955be54)
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>ProtonVPN Setup and Usage</h1>
+This tutorial teaches how to setup a VPN using a Virtual Machine on Microsoft Azure<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- ProtonVPN
 
 <h2>Operating Systems Used </h2>
 
@@ -20,19 +16,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Setting up an account and subscription with Microsoft Azure
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="270" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/42beac47-0660-44ac-8a5d-351af320fd17">
+
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Start off by searching for Virtual machines at the top navigation bar and selecting Virtual machines.
 </p>
 <br />
 
