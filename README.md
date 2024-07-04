@@ -1,7 +1,7 @@
 # ProtonVPN-Setup-and-Usage
 ![image](https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/2761652e-1a4d-479a-851a-af0b9955be54)
 <h1>ProtonVPN Setup and Usage</h1>
-This tutorial teaches how to setup a VPN using a Virtual Machine on Microsoft Azure<br />
+This tutorial teaches how to setup a Virtual Machine on Microsoft Azure and then install and setting up Proton VPN on the VM.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -67,9 +67,14 @@ For the Virtual machine we will be assigning it Windows 10 Pro and the size to 4
 
 <br />
 
-6.) You'll then open microsoft edge and google Proton VPN and then create an account. Then navigate back to the home page and click on the download menu to select the device you want to download proton VPN on it.
+6.) You'll then open microsoft edge and google Proton VPN and then create an account. Then navigate back to the home page and click on the download menu to select the device you want to download proton VPN on it. And then follow the instructions to install it.
 
 <img width="606" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/acf84912-e0f4-4dcf-90e7-42d4e87c45d1">
 
 <img width="619" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/e64c08e7-9801-434e-b969-5d51b182f7ea">
+
+7.) Open the Proton VPN app enter your information for logging in and click on quick connect and you are are setup.
+
+<img width="511" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/c999cd57-9827-452a-98c0-4cb46a95d196">
+
 
