@@ -73,7 +73,7 @@ For the Virtual machine we will be assigning it Windows 10 Pro and the size to 4
 
 <img width="619" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/e64c08e7-9801-434e-b969-5d51b182f7ea">
 
-7.) Open the Proton VPN app enter your information for logging in and click on quick connect and you are are setup.
+7.) Open the Proton VPN app enter your information for logging in and click on quick connect and you are all setup.
 
 <img width="511" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/c999cd57-9827-452a-98c0-4cb46a95d196">
 
