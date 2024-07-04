@@ -19,33 +19,36 @@ This tutorial teaches how to setup a VPN using a Virtual Machine on Microsoft Az
 Setting up an account and subscription with Microsoft Azure
 
 <h2>Installation Steps</h2>
-
 <p>
-<img width="270" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/42beac47-0660-44ac-8a5d-351af320fd17">
+1.) Start off by searching for Virtual machines at the top navigation bar and selecting Virtual machines.
+</p>
+<p>
+<img width="301" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/f4171059-f6b8-47a9-aaca-1f86261ad778">
+
 
 
 
 
 </p>
-<p>
-Start off by searching for Virtual machines at the top navigation bar and selecting Virtual machines.
-</p>
+
 <br />
-
 <p>
-<img width="239" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/19b7504a-a1a9-4b4f-9a4c-c3e11c1acb3b">
+2.) Then click on the create button and select Azure virtual machine from the dropdown menu.
+</p>
+<p>
+<img width="242" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/493e58da-7428-4c9b-8adc-1034b7c3e46a">
+
 
 
 </p>
-<p>
-Then click on the create button and select Azure virtual machine from the dropdown menu.
-</p>
+
 <br />
+<p>
+3.) Next, we will configure our virtual machine by giving it a name and selecting the nearest region to you.
+</p>
+<p>
+<img width="608" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/335e7d00-f2b4-4393-af0b-74908adf0682">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
