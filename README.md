@@ -1,4 +1,4 @@
-# Microsoft Azure VM and ProtonVPN-Setup
+
 ![image](https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/2761652e-1a4d-479a-851a-af0b9955be54)
 <h1>Microsoft Azure VM and ProtonVPN-Setup</h1>
 This tutorial teaches how to setup a Virtual Machine on Microsoft Azure and then install and setting up Proton VPN on the VM.<br />
