@@ -6,7 +6,7 @@ This tutorial teaches how to setup a VPN using a Virtual Machine on Microsoft Az
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 - ProtonVPN
 
@@ -44,11 +44,32 @@ Setting up an account and subscription with Microsoft Azure
 
 <br />
 <p>
-3.) Next, we will configure our virtual machine by giving it a name and selecting the nearest region to you.
+3.) Next, assign the subscription and resource group that you want to use (if you did not create a resource group already it will create one here). We will then configure our virtual machine by giving it a name and selecting the nearest region to you.
+For the Virtual machine we will be assigning it Windows 10 Pro and the size to 4 vcpus, 16 GiB memory.
 </p>
-<p>
-<img width="608" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/335e7d00-f2b4-4393-af0b-74908adf0682">
+<img width="579" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/e04bdf70-f0b5-4c1d-8ecb-3d734efac119">
 
-</p>
 
 <br />
+
+<p>
+4.) Lastly, create a username and password that we will use to log into the virtual machine and check the licensing box. Then click the review and create button at the bottom and you should be good to go.
+</p>
+<img width="611" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/a9c6c4b5-48bc-47be-87d6-3699cead8c3d">
+
+<br />
+
+5.) Now that the virtual machine is up you'll want to use its Public IP address to connect to it using Remote Desktop Connection and put in your username and password.
+
+<img width="720" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/01c0ffad-63e6-431c-a1a7-40e1a6db7ea5">
+
+<img width="298" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/dd934ba8-d9fa-413f-9b3e-b7bf1d72b132">
+
+<br />
+
+6.) You'll then open microsoft edge and google Proton VPN and then create an account. Then navigate back to the home page and click on the download menu to select the device you want to download proton VPN on it.
+
+<img width="606" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/acf84912-e0f4-4dcf-90e7-42d4e87c45d1">
+
+<img width="619" alt="image" src="https://github.com/JacobKnittle/ProtonVPN-Setup-and-Usage/assets/124555008/e64c08e7-9801-434e-b969-5d51b182f7ea">
+
